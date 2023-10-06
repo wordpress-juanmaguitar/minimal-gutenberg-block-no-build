@@ -3,7 +3,6 @@
   var useBlockProps = blockEditor.useBlockProps;
 
   blocks.registerBlockType("minimal-gutenberg-block/my-block", {
-    apiVersion: 2,
     title: 'minimal-block',
     icon: 'smiley', 
     category: 'media', 
