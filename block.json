@@ -1,0 +1,11 @@
+{
+	"$schema": "https://json.schemastore.org/block.json",
+	"apiVersion": 3,
+	"title": "Minimal Gutenberg Block",
+	"name": "minimal-gutenberg-block/my-block",
+	"category": "media",
+	"icon": "smiley",
+	"textdomain": "minimal-gutenberg-block",
+	"example": {},
+	"editorScript": "file:./block.js"
+}
