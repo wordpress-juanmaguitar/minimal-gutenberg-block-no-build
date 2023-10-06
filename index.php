@@ -8,6 +8,3 @@ function register_block() {
 }
 
 add_action( 'init', 'register_block' );
-
-?>
-
