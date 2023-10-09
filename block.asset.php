@@ -1,9 +1,1 @@
-<?php return
-    array( 'dependencies' =>
-        array(
-            'react',
-            'wp-blocks',
-            'wp-polyfill'
-        ),
-        'version' => '0.1'
-    );
+<?php return array( 'dependencies' => array('wp-blocks'),'version' => '0.1');
